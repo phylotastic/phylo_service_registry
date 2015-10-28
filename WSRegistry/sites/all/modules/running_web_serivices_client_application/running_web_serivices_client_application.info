@@ -1,0 +1,10 @@
+;$Id$
+
+name = Web Services Execution Module
+description =  Web Services Execution Module
+package = WSExecution
+core = 7.x
+files[] = running_web_serivices_client_application.module
+
+;dependencies[] = autoload
+;php = 5.2  	
